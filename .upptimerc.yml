@@ -4,6 +4,8 @@ repo: statuspage # The name of this repository
 sites: # List of endpoints to track
   - name: Exchange Rates API
     url: https://exchangeapi.puddi.monster/status
+    expectedStatusCodes:
+      - 404
 status-website: # Status website (optional)
   baseUrl: /statuspage
   name: Upptime # Status website title
