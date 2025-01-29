@@ -5,18 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/exchangeapi.puddi.monster.ico",
     "slug": "exchange-rates-api",
     "status": "up",
-    "uptime": "2.84%",
-    "uptimeDay": "2.84%",
-    "uptimeWeek": "2.84%",
-    "uptimeMonth": "2.84%",
-    "uptimeYear": "2.84%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 288,
     "timeDay": 288,
     "timeWeek": 288,
     "timeMonth": 288,
     "timeYear": 288,
-    "dailyMinutesDown": {
-      "2025-01-29": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
