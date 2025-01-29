@@ -7,5 +7,5 @@ sites: # List of endpoints to track
 assignees: # Users to assign downtime issues (optional)
   - AnandChowdhary
 status-website: # Status website (optional)
-  baseUrl: /repo
+  baseUrl: /statuspage
   name: Upptime # Status website title
