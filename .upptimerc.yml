@@ -7,9 +7,6 @@ sites:
     url: exchangeapi.cuckold.quest # Replace <url> with your API endpoint, e.g., https://api.example.com/health
     method: GET
     expectedStatus: 200
-    checkEvery: 5 minutes
-    maxResponseTime: 2000 # Optional, in milliseconds
-    retry: 3 # Optional, number of retries
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
