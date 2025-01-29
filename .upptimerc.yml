@@ -6,7 +6,6 @@ sites:
   - name: My API
     url: exchangeapi.cuckold.quest # Replace <url> with your API endpoint, e.g., https://api.example.com/health
     method: GET
-    expectedStatus: 200
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
