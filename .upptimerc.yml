@@ -7,5 +7,5 @@ sites: # List of endpoints to track
     expectedStatusCodes:
       - 404
 status-website: # Status website (optional)
-  baseUrl: /statuspage
+  cname: status.puddi.monster
   name: Upptime # Status website title
