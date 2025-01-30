@@ -6,6 +6,8 @@ sites: # List of endpoints to track
     url: https://exchangeapi.puddi.monster/status
     expectedStatusCodes:
       - 404
+  - name: Irek
+    url: $IREK
 status-website: # Status website (optional)
   cname: status.puddi.monster
   name: Upptime # Status website title
