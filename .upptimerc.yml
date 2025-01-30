@@ -10,8 +10,7 @@ status-website: # Status website (optional)
   cname: status.puddi.monster
   name: Upptime # Status website title
   favicon: https://screens.puddi.monster/poopoo.ico
-  style: |
-  :root {
+  css: ":root {
     --primary-color: #FFCC00; /* Bright yellow for main elements */
     --secondary-color: #603813; /* Dark brown for accents */
     --background-color: #FFF7DD; /* Light yellow for background */
@@ -71,4 +70,4 @@ status-website: # Status website (optional)
     border: 2px solid var(--secondary-color);
     padding: 1em;
     border-radius: 10px;
-  }
+  }"
