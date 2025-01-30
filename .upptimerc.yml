@@ -12,6 +12,3 @@ status-website: # Status website (optional)
   favicon: https://screens.puddi.monster/poopoo.ico
   logoUrl: https://screens.puddi.monster/poopoo.ico
   theme: dark
-  links: 
-    - rel: stylesheet
-      href: https://screens.puddi.monster/style.css
