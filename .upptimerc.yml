@@ -11,4 +11,7 @@ status-website: # Status website (optional)
   name: Upptime # Status website title
   favicon: https://screens.puddi.monster/poopoo.ico
   logoUrl: https://screens.puddi.monster/poopoo.ico
-  themeUrl: https://screens.puddi.monster/style.css
+  theme: ocean
+  links: 
+    - rel: stylesheet
+      href: https://screens.puddi.monster/style.css
