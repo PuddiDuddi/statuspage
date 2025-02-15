@@ -1,7 +1,7 @@
 url: https://exchangeapi.puddi.monster/status
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-02-15T15:14:10.917Z
+status: up
+code: 404
+responseTime: 14316
+lastUpdated: 2025-02-15T15:26:30.294Z
 startTime: 2025-01-29T21:33:19.078Z
 generator: Upptime <https://github.com/upptime/upptime>
