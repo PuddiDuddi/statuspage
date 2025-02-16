@@ -22,19 +22,19 @@
     "url": "$IREK",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "irek",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 661,
-    "timeDay": 2289,
-    "timeWeek": 917,
-    "timeMonth": 661,
-    "timeYear": 661,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 660,
+    "timeDay": 1739,
+    "timeWeek": 886,
+    "timeMonth": 660,
+    "timeYear": 660,
     "dailyMinutesDown": {
-      "2025-02-16": 0
+      "2025-02-16": 5
     }
   }
 ]
