@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 945,
-    "timeDay": 496,
-    "timeWeek": 1830,
-    "timeMonth": 945,
-    "timeYear": 945,
+    "time": 932,
+    "timeDay": 513,
+    "timeWeek": 1831,
+    "timeMonth": 932,
+    "timeYear": 932,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "irek",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.15%",
+    "uptimeDay": "67.92%",
+    "uptimeWeek": "95.42%",
+    "uptimeMonth": "98.15%",
+    "uptimeYear": "98.15%",
     "time": 660,
-    "timeDay": 674,
-    "timeWeek": 886,
+    "timeDay": 639,
+    "timeWeek": 915,
     "timeMonth": 660,
     "timeYear": 660,
     "dailyMinutesDown": {
-      "2025-02-16": 0
+      "2025-02-17": 75,
+      "2025-02-16": 387
     }
   }
 ]
