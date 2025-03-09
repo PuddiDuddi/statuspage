@@ -4,10 +4,10 @@
     "url": "https://exchangeapi.puddi.monster/status",
     "icon": "https://icons.duckduckgo.com/ip3/exchangeapi.puddi.monster.ico",
     "slug": "exchange-rates-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 787,
@@ -15,25 +15,28 @@
     "timeWeek": 563,
     "timeMonth": 981,
     "timeYear": 787,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-09": 1
+    }
   },
   {
     "name": "Irek",
     "url": "$IREK",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "irek",
-    "status": "up",
-    "uptime": "97.95%",
+    "status": "down",
+    "uptime": "98.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.49%",
-    "uptimeYear": "97.95%",
+    "uptimeYear": "98.00%",
     "time": 602,
     "timeDay": 563,
     "timeWeek": 534,
     "timeMonth": 649,
     "timeYear": 602,
     "dailyMinutesDown": {
+      "2025-03-09": 0,
       "2025-02-17": 713,
       "2025-02-16": 387
     }
