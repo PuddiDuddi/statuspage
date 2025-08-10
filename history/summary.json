@@ -29,7 +29,7 @@
     "url": "$IREK",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "irek",
-    "status": "up",
+    "status": "down",
     "uptime": "99.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -41,6 +41,7 @@
     "timeMonth": 577,
     "timeYear": 693,
     "dailyMinutesDown": {
+      "2025-08-10": 0,
       "2025-06-16": 426,
       "2025-06-15": 225,
       "2025-05-11": 23,
