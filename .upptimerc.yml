@@ -3,14 +3,14 @@ owner: PuddiDuddi # Your GitHub organization or username, where this repository 
 repo: statuspage # The name of this repository
 sites: # List of endpoints to track
   - name: Exchange Rates API
-    url: https://exchangeapi.puddi.monster/status
+    url: https://exchangeapi.lostlanedeservesno.help/status
     expectedStatusCodes:
       - 404
   - name: Irek
     url: $IREK
 status-website: # Status website (optional)
-  cname: status.puddi.monster
+  cname: status.lostlanedeservesno.help
   name: Upptime # Status website title
-  favicon: https://screens.puddi.monster/poopoo.ico
-  logoUrl: https://screens.puddi.monster/poopoo.ico
+  favicon: https://screens.lostlanedeservesno.help/poopoo.ico
+  logoUrl: https://screens.lostlanedeservesno.help/poopoo.ico
   theme: dark
