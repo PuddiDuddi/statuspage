@@ -1,7 +1,7 @@
-url: https://exchangeapi.puddi.monster/status
+url: https://exchangeapi.lostlanedeservesno.help/status
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-17T23:16:18.181Z
+code: 502
+responseTime: 432
+lastUpdated: 2025-11-18T07:43:18.524Z
 startTime: 2025-01-29T21:33:19.078Z
 generator: Upptime <https://github.com/upptime/upptime>
