@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/exchangeapi.lostlanedeservesno.help.ico",
     "slug": "exchange-rates-api",
     "status": "up",
-    "uptime": "98.80%",
+    "uptime": "98.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.54%",
     "time": 563,
-    "timeDay": 503,
-    "timeWeek": 401,
-    "timeMonth": 442,
-    "timeYear": 527,
+    "timeDay": 557,
+    "timeWeek": 433,
+    "timeMonth": 444,
+    "timeYear": 525,
     "dailyMinutesDown": {
       "2026-03-04": 37,
       "2026-02-01": 52,
@@ -44,13 +44,13 @@
     "status": "up",
     "uptime": "97.88%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "40.98%",
+    "uptimeWeek": "51.96%",
     "uptimeMonth": "86.42%",
     "uptimeYear": "97.73%",
     "time": 596,
-    "timeDay": 784,
-    "timeWeek": 789,
-    "timeMonth": 500,
+    "timeDay": 640,
+    "timeWeek": 759,
+    "timeMonth": 505,
     "timeYear": 549,
     "dailyMinutesDown": {
       "2026-04-18": 670,
@@ -76,8 +76,7 @@
       "2025-06-15": 225,
       "2025-05-11": 23,
       "2025-05-06": 16,
-      "2025-05-05": 53,
-      "2025-04-22": 24
+      "2025-05-05": 53
     }
   }
 ]
