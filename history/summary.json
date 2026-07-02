@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/exchangeapi.lostlanedeservesno.help.ico",
     "slug": "exchange-rates-api",
     "status": "up",
-    "uptime": "98.97%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.17%",
+    "uptime": "98.96%",
+    "uptimeDay": "94.06%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.15%",
     "time": 550,
-    "timeDay": 0,
-    "timeWeek": 447,
-    "timeMonth": 441,
+    "timeDay": 526,
+    "timeWeek": 459,
+    "timeMonth": 444,
     "timeYear": 513,
     "dailyMinutesDown": {
       "2025-09-18": 41,
@@ -28,7 +28,7 @@
       "2026-01-28": 20,
       "2026-02-01": 52,
       "2026-03-04": 37,
-      "2026-07-02": 5
+      "2026-07-02": 86
     }
   },
   {
@@ -36,17 +36,17 @@
     "url": "$IREK",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "irek",
-    "status": "down",
-    "uptime": "98.17%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "97.88%",
-    "time": 608,
-    "timeDay": 0,
-    "timeWeek": 712,
-    "timeMonth": 691,
-    "timeYear": 554,
+    "status": "up",
+    "uptime": "98.16%",
+    "uptimeDay": "94.40%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "97.86%",
+    "time": 609,
+    "timeDay": 836,
+    "timeWeek": 729,
+    "timeMonth": 696,
+    "timeYear": 555,
     "dailyMinutesDown": {
       "2025-08-10": 15,
       "2025-08-14": 61,
@@ -66,7 +66,8 @@
       "2026-04-17": 1440,
       "2026-04-16": 1440,
       "2026-04-15": 1440,
-      "2026-04-14": 959
+      "2026-04-14": 959,
+      "2026-07-02": 81
     }
   }
 ]
