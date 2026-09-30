@@ -4,13 +4,13 @@
     "url": "https://exchangeapi.lostlanedeservesno.help/status",
     "icon": "https://icons.duckduckgo.com/ip3/exchangeapi.lostlanedeservesno.help.ico",
     "slug": "exchange-rates-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "98.90%",
-    "time": 502,
+    "time": 505,
     "timeDay": 314,
     "timeWeek": 419,
     "timeMonth": 433,
@@ -31,7 +31,8 @@
       "2026-07-15": 1092,
       "2026-07-14": 238,
       "2026-07-16": 43,
-      "2026-08-27": 18
+      "2026-08-27": 18,
+      "2026-09-30": 5
     }
   },
   {
@@ -39,9 +40,9 @@
     "url": "$IREK",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "irek",
-    "status": "up",
-    "uptime": "98.42%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.43%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.86%",
@@ -70,7 +71,8 @@
       "2026-04-14": 959,
       "2026-07-02": 81,
       "2026-07-14": 46,
-      "2026-07-16": 38
+      "2026-07-16": 38,
+      "2026-09-30": 0
     }
   }
 ]
